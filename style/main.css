@@ -12,6 +12,10 @@ body {
 
 }
 
+a {
+    text-decoration: none;
+
+}
 
 #page-home {
     height: 100vh;
@@ -34,7 +38,6 @@ body {
 #page-home header a {
     display: flex;
     color: #322153;
-    text-decoration: none;
 }
 
 #page-home header a span {
